@@ -185,7 +185,7 @@ Vale ressaltar que para a criação de toda a interface das dashboards foi utili
 Capa do projeto, aqui se encontra os botões de acesso para as dashboards atualmente disponíveis.
 ## a
 <p align="center">
-  <img  src="prints/3_]capa.png">
+  <img  src="prints/3_capa.png">
 </p>
 
 ## Rankings Fundamentalistas
